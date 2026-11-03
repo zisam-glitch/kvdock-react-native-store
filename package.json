@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-react-native-store",
+  "version": "1.0.0",
+  "description": "Offline-first React Native mobile key-value storage engine",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.0"
+  },
+  "license": "MIT"
+}
